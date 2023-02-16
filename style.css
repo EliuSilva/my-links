@@ -28,6 +28,34 @@ li{
     list-style: none;
 }
 
+i{
+    color: white;
+    position: absolute;
+    top: 243px;
+    left: 550px;
+}
+
+f{
+color: white;
+position: absolute;
+top: 320px;
+left: 550px;
+}
+
+g{
+color: white;
+position: absolute;
+top: 397px;
+left: 550px;
+}
+
+h{
+    color: white;
+    position: absolute;
+    top: 475px;
+    left: 550px;
+}
+
 a{
     background-color: red;
     color: white;
