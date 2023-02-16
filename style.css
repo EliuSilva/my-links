@@ -28,6 +28,7 @@ li{
 }
 
 i{
+    position: fixed;
     color: white;
     position: absolute;
     top: 243px;
@@ -35,14 +36,15 @@ i{
 }
 
 f{
+    position: fixed;
 color: white;
 position: absolute;
 top: 320px;
 left: 550px;
-overflow: hidden;
 }
 
 g{
+    position: fixed;
 color: white;
 position: absolute;
 top: 397px;
@@ -50,6 +52,7 @@ left: 550px;
 }
 
 h{
+    position: fixed;
     color: white;
     position: absolute;
     top: 475px;
