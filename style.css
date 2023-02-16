@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+body{
+    background-color: black;
+    font-family: sans-serif;
+
+}
+
+h1{
+    color: white;
+    margin-top: 24px;
+    margin-bottom: 2px;
+}
+
+p{
+    color: white;
+}
+
+ul{
+    margin-top: 25px;
+}
+
+li{
+    margin-bottom: 9px;
+    list-style: none;
+}
+
+a{
+    background-color: limegreen;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+}
+
+footer{
+color: white;
+margin-top: 20px;
+}
+
+.container{
+    width: 320px;
+    text-align: center;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
