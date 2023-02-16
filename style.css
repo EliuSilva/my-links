@@ -1,13 +1,11 @@
 *{
     margin: 0;
     padding: 10px;
-    overflow: hidden;
 }
 
 body{
     background-color: black;
     font-family: sans-serif;
-
 }
 
 h1{
@@ -41,6 +39,7 @@ color: white;
 position: absolute;
 top: 320px;
 left: 550px;
+overflow: hidden;
 }
 
 g{
