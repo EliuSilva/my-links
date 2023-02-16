@@ -18,6 +18,10 @@ p{
     color: white;
 }
 
+.ul{
+    overflow: hidden;
+}
+
 ul{
     margin-top: 25px;
 }
