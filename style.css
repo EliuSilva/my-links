@@ -18,10 +18,6 @@ p{
     color: white;
 }
 
-.ul{
-    overflow: hidden;
-}
-
 ul{
     margin-top: 25px;
 }
@@ -29,38 +25,6 @@ ul{
 li{
     margin-bottom: 9px;
     list-style: none;
-}
-
-i{
-    position: fixed;
-    color: white;
-    position: absolute;
-    top: 243px;
-    left: 550px;
-}
-
-f{
-    position: fixed;
-color: white;
-position: absolute;
-top: 320px;
-left: 550px;
-}
-
-g{
-    position: fixed;
-color: white;
-position: absolute;
-top: 397px;
-left: 550px;
-}
-
-h{
-    position: fixed;
-    color: white;
-    position: absolute;
-    top: 475px;
-    left: 550px;
 }
 
 a{
