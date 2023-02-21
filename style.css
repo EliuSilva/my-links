@@ -47,8 +47,10 @@ a:hover{
 
 footer{
 color: white;
-margin-top: 82px;
+margin-top: 30px;
+left: 608px;
 font-style: oblique;
+position: absolute;
 }
 
 .container{
