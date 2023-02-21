@@ -50,7 +50,7 @@ color: white;
 margin-top: 30px;
 left: 608px;
 font-style: oblique;
-position: absolute;
+position: fixed;
 }
 
 .container{
