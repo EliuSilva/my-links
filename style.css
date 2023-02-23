@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 10px;
+    padding: 7px;
 }
 
 body{
@@ -10,16 +10,19 @@ body{
 
 h1{
     color: white;
-    margin-top: 24px;
+    margin-top: 18px;
     margin-bottom: 2px;
+    font-family: inherit;
 }
 
 p{
     color: white;
+    font-family: monospace;
+    font-size: 18px;
 }
 
 ul{
-    margin-top: 25px;
+    margin-top: 50px;
 }
 
 li{
@@ -35,10 +38,11 @@ a{
     display: block;
     border-radius: 5px;
     transition: .2s;
+    border: 1px solid rgb(15, 75, 124);
 }
 
 a:hover{
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     color: rgb(15, 75, 124);
     transition: all .2s ease-in-out;
     transform: scale(1.1);
@@ -47,16 +51,16 @@ a:hover{
 
 footer{
 color: white;
-margin-top: 20px;
+margin-top: 55px;
 left: 608px;
 font-style: oblique;
-position: fixed;
+
 }
 
 .container{
     width: 320px;
     text-align: center;
-    margin-top: 41px;
+    margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
 
